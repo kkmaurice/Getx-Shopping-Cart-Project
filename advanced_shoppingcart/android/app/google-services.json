@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882264480441",
+    "project_id": "advancedshoppingapp",
+    "storage_bucket": "advancedshoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882264480441:android:83c6fa7cc7434746b35968",
+        "android_client_info": {
+          "package_name": "com.example.advanced_shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882264480441-fi4cmipm8jqg217dss5iqa5mfib7vm3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_sLeNJkT5dFSwsxThnq0hxXpabx2g4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882264480441-fi4cmipm8jqg217dss5iqa5mfib7vm3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
